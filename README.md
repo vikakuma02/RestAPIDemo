@@ -1,2 +1,2 @@
 # RestAPIDemo
-Sample Rest API Automation Using Rest Assured 
+Sample Rest API Automation Using Rest Assured and Serenity. 
